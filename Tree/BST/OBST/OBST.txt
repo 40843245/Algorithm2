@@ -1,0 +1,13 @@
+In this article, I will discuss about OBST.
+
+--------------------------
+Abbreviation:
+OBST = Optimal Binary Search Tree
+
+--------------------------
+What is Optimal?
+Optimal refers the best at present.
+
+--------------------------
+What is OBST?
+
