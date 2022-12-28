@@ -1,0 +1,15 @@
+In this article, I will talk about BST.
+
+---------------------------------
+Abbreviation:
+BST = Binary Search tree.
+
+---------------------------------
+BST is a binary tree for quick search of the specific key.
+For each nonleaves, its value must be greater than its root of left subtree and be less than its root of right subtree.
+
+For example, see the examplse in the following link (given in reference section [ref]).
+
+---------------------------------
+[ref]
+https://en.wikipedia.org/wiki/Binary_search_tree
